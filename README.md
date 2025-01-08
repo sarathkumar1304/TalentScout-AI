@@ -19,7 +19,7 @@ TalentScout-AI offers:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/TalentScout-AI.git
+https://github.com/sarathkumar1304/TalentScout-AI.git
 cd TalentScout-AI
 ```
 
