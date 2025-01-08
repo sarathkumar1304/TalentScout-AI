@@ -1,0 +1,8 @@
+streamlit
+openai
+jsonschema
+logging
+pytest
+streamlit
+google-generativeai
+python-dotenv
